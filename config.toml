@@ -2,6 +2,7 @@ baseurl = "http://kelar86.github.com/skiinstructor24/"
 languageCode = "en-us"
 title = "Инструктор по горным лыжам, обучение в Красноярске"
 theme = "hugo-sustain"
+publishDir = "docs"
 
 
 [permalinks]
