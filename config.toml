@@ -1,0 +1,50 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Инструктор по горным лыжам, обучение в Красноярске"
+theme = "hugo-sustain"
+
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "profile.png"
+  author = "Алексей Волынщиков"
+  description = "Describe your website"
+  
+  email = "volynshchikov@gmail.com"
+  vkontakte = "volynshcikov"
+  facebook = "volynshchikov"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "kelar86"
+  email         = "email@example.com"
+  Twitter       = "username"
+  LinkedIn      = "username"
+  Stackoverflow = "username"
+
+## Main Menu
+[[menu.main]]
+  name = "КОНТАКТЫ"
+  identifier = "contact"
+  weight = 300
+  url = "/contact/"
+[[menu.main]]
+  name = "БЛОГ"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "МЕТОДИКА"
+  identifier = "metodic"
+  weight = 200
+  url = "/metodic/"
+[[menu.main]]
+  name = "РЕЗЮМЕ"
+  identifier = "resume"
+  weight = 300
+  url = "/resume/"
