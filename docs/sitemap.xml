@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/metodic/</loc>
+    <loc>/metodic/</loc>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/resume/</loc>
+    <loc>/resume/</loc>
   </url>
   
 </urlset>
