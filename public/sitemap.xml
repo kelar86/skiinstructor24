@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://replace-this-with-your-hugo-site.com/categories/</loc>
+    <loc>http://kelar86.github.com/skiinstructor24/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/tags/</loc>
+    <loc>http://kelar86.github.com/skiinstructor24/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <loc>http://kelar86.github.com/skiinstructor24/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/metodic/</loc>
+    <loc>http://kelar86.github.com/skiinstructor24/metodic/</loc>
   </url>
   
   <url>
-    <loc>http://replace-this-with-your-hugo-site.com/resume/</loc>
+    <loc>http://kelar86.github.com/skiinstructor24/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kelar86.github.com/skiinstructor24/resume/</loc>
   </url>
   
 </urlset>
