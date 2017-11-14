@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://instructor24.cf/blog/catb/</loc>
-  </url>
-  
-  <url>
     <loc>http://instructor24.cf/blog/</loc>
     <priority>0</priority>
   </url>
@@ -28,6 +24,10 @@
   
   <url>
     <loc>http://instructor24.cf/metodic/</loc>
+  </url>
+  
+  <url>
+    <loc>http://instructor24.cf/blog/catb/</loc>
   </url>
   
   <url>

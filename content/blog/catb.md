@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Категория 'B' НЛИ"
 description = ""
 tags = []
 categories = []
