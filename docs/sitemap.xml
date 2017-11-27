@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://instructor24.cf/blog/price/</loc>
+    <lastmod>2017-11-27T00:00:00+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://instructor24.cf/blog/catb/</loc>
     <lastmod>2017-11-14T00:00:00+07:00</lastmod>
   </url>
   
   <url>
     <loc>http://instructor24.cf/blog/</loc>
-    <lastmod>2017-11-14T00:00:00+07:00</lastmod>
+    <lastmod>2017-11-27T00:00:00+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,7 +30,7 @@
   
   <url>
     <loc>http://instructor24.cf/</loc>
-    <lastmod>2017-11-14T00:00:00+07:00</lastmod>
+    <lastmod>2017-11-27T00:00:00+07:00</lastmod>
     <priority>0</priority>
   </url>
   
